@@ -10,6 +10,8 @@ This project is a simple, responsive **HTML Portfolio/Profile Page** showcasing 
 ---
 
 
+[live @](https://sarathp678.github.io/Resume/)
+
 
 ![screenshot3](./ss.png)
 
